@@ -1,3 +1,3 @@
 # AVI-BookApp
 
-A new Flutter project.
+Mid-term Flutter project
